@@ -1,0 +1,3 @@
+CREATE DATABASE dwh_bronze;
+CREATE DATABASE dwh_silver;
+CREATE DATABASE dwh_gold;
